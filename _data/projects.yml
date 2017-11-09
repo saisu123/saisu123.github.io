@@ -1,0 +1,12 @@
+- intro:
+  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
+  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+
+- project: CSDT - Sparse Deep Neural Network Toolkit
+  title: <a href="https://github.com/wyq730/CSLT-Sparse-DNN-Toolkit">CSDT - Sparse Deep Neural Network Toolkit</a>
+  #link: 
+  tagline: "CSLT Sparse DNN Toolkit (CSDT) is an open source toolkit for implementation and exploration of sparse deep neural networks in speech recogniton. It's built on Kaldi Speech Recognition Toolkit and it's released for further research on sparse deep neural networks."
+#- project:
+#  title: DevStudio
+#  link: "#"
+#  tagline: "A responsive website template designed to help web developers/designers market their services."

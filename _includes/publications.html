@@ -1,0 +1,62 @@
+{% if site.data.publications %}
+<section class="section experiences-section">
+  <h2 class="section-title"><i class="fa fa-briefcase"></i>Publications</h2>
+
+<div class="classification">
+Conference Papers
+</div>
+
+{% for publication in site.data.papers %}
+  <div class="item_simple">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="publication">{{ publication.role }}</h3>
+        <div class="time_simple">{{ publication.time }}</div>
+      </div><!--//upper-row-->
+
+      <!-- <div class="company">{{ publication.company }}</div> -->
+
+    </div><!--//meta-->
+
+    {% if publication.details %}
+    <div class="details_simple_publications">
+      <p>{{ publication.details }}</p>
+    </div><!--//details-->
+    {% endif %}
+
+  </div><!--//item-->
+{% endfor %}
+
+<br>
+
+<div class="classification">
+Technical Reports
+</div>
+
+{% for publication in site.data.publications %}
+  <div class="item_simple">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="publication">{{ publication.role }}</h3>
+        <div class="time_simple_publications">{{ publication.time }}</div>
+      </div><!--//upper-row-->
+
+      <!-- <div class="company_simple_publications">{{ publication.company }}</div> -->
+
+    </div><!--//meta-->
+
+    {% if publication.details %}
+    <div class="details_simple_publications">
+      <p>{{ publication.details }}</p>
+    </div><!--//details-->
+    {% endif %}
+
+  </div><!--//item-->
+{% endfor %}
+
+</section><!--//section-->
+{% endif %}

@@ -1,0 +1,10 @@
+- publication:
+  role: <a href="reports/review_on_sparse_neural_network.pdf">Review on Sparse Neural Network</a>
+  time: 2017.5
+  company: Center for Speech and Language Technologies (CSLT), Tsinghua University
+  details: "A review on related works on sparse neural network, including detailed introduction to various approches to sparsify a neural network."
+- publication:
+  role: <a href="reports/GPS_analysis.pdf">Semantic Trajectory Mining</a>
+  time: 2017.6
+  company: State Key Laboratory of Networking and Switching Technology (SKL-NST), Beijing Univerisity of Posts and Telecommunications (BUPT)
+  details: "A summary on my work on semantic trajectory mining, including some work on trajectory prediction and a travel recommender system."

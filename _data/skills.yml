@@ -1,0 +1,30 @@
+- skill:
+  name: LaTeX
+  level: 80%
+- skill:
+  name: C/C++
+  level: 95%
+- skill:
+  name: AWK
+  level: 80%
+- skill:
+  name: TensorFlow
+  level: 75%
+- skill:
+  name: MATLAB
+  level: 92%
+#- skill:
+#  name: Javascript & jQuery
+#  level: 98%
+#- skill:
+#  name: Angular
+#  level: 98%
+#- skill:
+#  name: HTML5 & CSS
+#  level: 95%
+#- skill:
+#  name: Ruby on Rails
+#  level: 85%
+#- skill:
+#  name: Sketch & Photoshop
+#  level: 60%

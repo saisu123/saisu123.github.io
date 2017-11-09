@@ -1,0 +1,36 @@
+#- experience:
+#  role: Research Assistant in Activity Recognition
+#  company: Advanced Network Technology Laboratory (ANT), Beijing University of Posts and Telecommunications (BUPT)
+#  time: Sep. 2017 - Present
+#
+#  bullet1: WiFi-based Contactless Activity Recognition on Smartphones
+#  details1: Data Collection. Demo Development. Recognize people's activity using RSSI and CSI. CNN, TDNN and LSTM included.
+
+- experience:
+  role: Visiting Researcher
+  company: Center for Speech and Language Technologies (CSLT), Tsinghua University
+  time: Nov. 2016 - Nov. 2017
+
+  bullet1: Demo of Driving Distraction Detection
+  time1: Nov. 2016 - Feb. 2017
+  details1: Developed a <a href="references/sda.pdf">SDA-based driving distraction approach</a> with my advisor, <a href="http://wangd.cslt.org">Dr. Dong Wang</a>, which discovers prominent features from raw spectrum of EEG data using SDA.<br>&#9670 &nbsp;Implemented two classifiers to detect drivers' status, i.e., to discriminate normal and distraction status.<br>&#9670 &nbsp;Developed a demo (Qt program) to illustrate how the detection system works.
+  #code1: https://github.com/wyq730/Demo-of-Driving-Distraction-Detection
+
+  bullet2: Sparse Deep Neural Networks in Speech Recognition
+  time2: Mar. 2017 - Nov. 2017
+  details2: Implemented connection sparseness and neural sparseness in deep neural networks based on Kaldi Speech Recognition toolkit.<br>&#9670 &nbsp;Developed a Long-term DropConnect approach, saving the storage and improving the performance of deep neural networks.
+
+  bullet3: Speaker Recognition on Trivial Events
+  time3: Sep. 2017 - Nov. 2017
+  details3: Utilized the deep feature learning technique to analyze the trivial events (e.g., laugh, caugh, sniff, etc) and recognize the speakers.
+
+#- experience:
+#  role: Research Assistant in Trajectory Data Mining 
+#  company: State Key Laboratory of Networking and Switching Technology (SKL-NST), Beijing Univerisity of Posts and Telecommunications (BUPT)
+#  time: Mar. 2017 - Oct. 2017
+  
+#  bullet1: Trajectory Prediction
+#  details1: Prediction of people's future trajectory based on big data analysis.
+
+#  bullet2: Travel Recommender System
+#  details2: A smart travel recommender system based on big data analysis.

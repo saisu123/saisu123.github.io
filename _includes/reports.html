@@ -1,0 +1,29 @@
+{% if site.data.reports %}
+<section class="section experiences-section">
+  <h2 class="section-title"><i class="fa fa-briefcase"></i>Reports</h2>
+
+{% for report in site.data.reports %}
+  <div class="item_simple">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="report">{{ report.role }}</h3>
+        <div class="time_simple">{{ report.time }}</div>
+      </div><!--//upper-row-->
+
+      <div class="company_simple">{{ report.company }}</div>
+
+    </div><!--//meta-->
+
+    {% if report.details %}
+    <div class="details_simple">
+      <p>{{ report.details }}</p>
+    </div><!--//details-->
+    {% endif %}
+
+  </div><!--//item-->
+{% endfor %}
+
+</section><!--//section-->
+{% endif %}

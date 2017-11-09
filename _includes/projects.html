@@ -1,0 +1,36 @@
+{% if site.data.projects %}
+<section class="section experiences-section">
+
+  <h2 class="section-title"><i class="fa fa-archive"></i>Projects</h2>
+
+  <!-- {% for intro in site.data.projects %}
+    <div class="intro">
+      <p>{{ intro.description }}</p>
+    </div>
+  {% endfor%} -->
+
+  {% for project in site.data.projects %}
+    <div class="item_simple">
+
+      <div class="meta">
+
+        <div class="upper-row">
+          <h3 class="project">{{ project.title }}</h3>
+          <!-- <div class="time_simple">{{ project.tagline }}</div> -->
+        </div><!--//upper-row-->
+
+        <!-- <div class="company_simple">{{ report.company }}</div> -->
+
+      </div><!--//meta-->
+
+      {% if project.tagline %}
+      <div class="details_simple">
+        <p>{{ project.tagline }}</p>
+      </div><!--//details-->
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
