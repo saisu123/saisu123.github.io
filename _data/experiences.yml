@@ -22,7 +22,7 @@
 
   bullet3: Speaker Recognition on Trivial Events
   time3: Sep. 2017 - Nov. 2017
-  details3: Utilized the deep feature learning technique to analyze the trivial events (e.g., laugh, caugh, sniff, etc) and recognize the speakers.
+  details3: Utilized the deep feature learning technique to analyze the trivial events (e.g., laugh, caugh, sniff, etc) and recognize the speakers.<br>&#9670 &nbsp;Collected a trivial event speech database and released it for public usage.
 
 #- experience:
 #  role: Research Assistant in Trajectory Data Mining 
