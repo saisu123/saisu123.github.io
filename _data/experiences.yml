@@ -18,7 +18,7 @@
 
   bullet2: Sparse Deep Neural Networks in Speech Recognition
   time2: Mar. 2017 - Nov. 2017
-  details2: Implemented connection sparseness and neural sparseness in deep neural networks based on Kaldi Speech Recognition toolkit.<br>&#9670 &nbsp;Developed a Long-term DropConnect approach, saving the storage and improving the performance of deep neural networks.
+  details2: Implemented connection sparseness and neural sparseness in deep neural networks based on Kaldi Speech Recognition toolkit.<br>&#9670 &nbsp;Proposed a Long-term DropConnect approach, saving the storage and improving the performance of deep neural networks.
 
   bullet3: Speaker Recognition on Trivial Events
   time3: Sep. 2017 - Nov. 2017
