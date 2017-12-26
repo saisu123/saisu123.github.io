@@ -240,11 +240,11 @@ p {
   /* text-indent: 1em; */
 }
 .main-wrapper .details_simple_projects {
-  font-size: 14px;
+  font-size: 13px;
   position: relative;
   overflow: hidden;
   margin-left: 0px;
-  margin-bottom: 4px;
+  margin-bottom: 2px;
   /* text-indent: 1em; */
 }
 .main-wrapper .details_simple_publications {
@@ -314,10 +314,10 @@ p {
 }
 .main-wrapper .project {
   color: #3F4650;
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 500;
-  margin-top: 7px;
-  margin-bottom: 3px;
+  margin-top: 2px;
+  margin-bottom: 2px;
 }
 .main-wrapper .publication {
   color: #3F4650;
