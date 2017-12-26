@@ -239,6 +239,14 @@ p {
   margin-bottom: 5px;
   /* text-indent: 1em; */
 }
+.main-wrapper .details_simple_projects {
+  font-size: 14px;
+  position: relative;
+  overflow: hidden;
+  margin-left: 0px;
+  margin-bottom: 4px;
+  /* text-indent: 1em; */
+}
 .main-wrapper .details_simple_publications {
   font-size: 13px;
   position: relative;
@@ -292,10 +300,10 @@ p {
   color: #97AAC3;
 }
 .main-wrapper .project-title {
-  font-size: 16px;
-  font-weight: 400;
-  margin-top: 0;
-  margin-bottom: 5px;
+  font-size: 13px;
+  margin-bottom: 0px;
+  margin-right: 130px;
+  color: #97AAC3;
 }
 .main-wrapper .report {
   color: #3F4650;
@@ -308,8 +316,8 @@ p {
   color: #3F4650;
   font-size: 16px;
   font-weight: 500;
-  margin-top: 0;
-  margin-bottom: 5px;
+  margin-top: 7px;
+  margin-bottom: 3px;
 }
 .main-wrapper .publication {
   color: #3F4650;
@@ -319,7 +327,18 @@ p {
   margin-bottom: 0;
 }
 .main-wrapper .projects-section .intro {
-  margin-bottom: 30px;
+  font-size: 13px;
+  position: relative;
+  overflow: hidden;
+  margin-left: 0px;
+  margin-bottom: 0px;
+}
+.main-wrapper .projects-section .intro_pro {
+  font-size: 13px;
+  position: relative;
+  overflow: hidden;
+  margin-left: 10px;
+  margin-bottom: 10px;
 }
 .main-wrapper .projects-section .item {
   margin-bottom: 15px;

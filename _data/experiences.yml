@@ -13,7 +13,7 @@
 
   bullet1: Demo of Driving Distraction Detection
   time1: Nov. 2016 - Feb. 2017
-  details1: Developed a <a href="references/sda.pdf">SDA-based driving distraction approach</a> with my advisor, <a href="http://wangd.cslt.org">Dr. Dong Wang</a>, which discovers prominent features from raw spectrum of EEG data using SDA.<br>&#9670 &nbsp;Implemented two classifiers to detect drivers' status, i.e., to discriminate normal and distraction status.<br>&#9670 &nbsp;Developed a demo (Qt program) to illustrate how the detection system works.
+  details1: Developed a <a href="references/sda.pdf">SDA-based driving distraction approach</a> with my advisor, <a href="http://wangd.cslt.org">Dr. Dong Wang</a>, which discovers prominent features from raw spectrum of EEG data using SDA.<br>&#9670 &nbsp;Implemented two classifiers to detect drivers' status, i.e., to discriminate normal and distraction status.<br>&#9670 &nbsp;Developed a <a href="https://github.com/wyq730/Demo-of-Driving-Distraction-Detection">demo (Qt program)</a> to illustrate how the detection system works.
   #code1: https://github.com/wyq730/Demo-of-Driving-Distraction-Detection
 
   bullet2: Sparse Deep Neural Networks in Speech Recognition

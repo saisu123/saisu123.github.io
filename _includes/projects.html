@@ -3,11 +3,14 @@
 
   <h2 class="section-title"><i class="fa fa-archive"></i>Projects</h2>
 
-  <!-- {% for intro in site.data.projects %}
-    <div class="intro">
-      <p>{{ intro.description }}</p>
+  {% for intro in site.data.projects %}
+    <div class="intro_pro">
+      <p>
+      	My main projects are listed here. You can find more projects in <a href = "https://github.com/wyq730">my GitHub</a>.
+      </p>
     </div>
-  {% endfor%} -->
+    {% break %}
+  {% endfor%}
 
   {% for project in site.data.projects %}
     <div class="item_simple">
@@ -24,7 +27,7 @@
       </div><!--//meta-->
 
       {% if project.tagline %}
-      <div class="details_simple">
+      <div class="details_simple_projects">
         <p>{{ project.tagline }}</p>
       </div><!--//details-->
       {% endif %}
