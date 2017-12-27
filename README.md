@@ -12,3 +12,6 @@ There are 6 modules in my homepage:
 4. **Publications**: My conference papers & technical reports.
 5. **Reports**
 6. **Skills & Proficiency**
+
+## License
+MIT
