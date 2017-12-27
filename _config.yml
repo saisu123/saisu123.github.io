@@ -15,7 +15,7 @@ style: styles-6
 name: Yanqing Wang
 tagline: Undergraduate Student<br>at BUPT
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'I am now an undergraduate student in <a href="http://www.bupt.edu.cn" color="#545E6C">Beijing University of Posts and Telecommunications (BUPT)</a>, and have been an undergraduate research assistant since Nov. 2016 in <a href="http://www.cslt.org/EN/">Center for Speech and Language Technologies (CSLT)</a> in Tsinghua University.<br><br>My interest lays not only in signal processing and telecommunication theory, which are two main areas of my major, but also in deep learning and its application in speech recognition as well as activity recognition, in which I am doing some research work.'
+summary: 'I am now an undergraduate student in <a href="http://www.bupt.edu.cn" color="#545E6C">Beijing University of Posts and Telecommunications (BUPT)</a>, and have been an undergraduate research assistant since Nov. 2016 in <a href="http://www.cslt.org/EN/">Center for Speech and Language Technologies (CSLT)</a>, Tsinghua University.<br><br>My interest lays not only in signal processing and telecommunication theory, which are two main areas of my major, but also in deep learning and its application in speech recognition as well as activity recognition, in which I am doing some research work.'
 
 #sidebar links
 email: wangyanqingchn[at]163.com
