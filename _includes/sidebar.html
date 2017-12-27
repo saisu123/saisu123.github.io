@@ -18,7 +18,11 @@
    <div class="contact-container container-block">
        <ul class="list-unstyled contact-list">
 
-          {% if site.email %}
+           {% if site.github %}
+           <li class="github"><i class="fa fa-github"></i><a href="http://github.com/{{site.github}}" target="_blank">{{site.github}}</a></li>
+           {% endif %}
+
+           {% if site.email %}
            <li class="email"><i class="fa fa-envelope"></i>{{site.email}}</li>
            {% endif %}
 
@@ -34,9 +38,6 @@
            <li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://linkedin.com/in/{{site.linkedin}}" target="_blank">{{site.linkedin_name}}</a></li>
            {% endif %}
 
-           {% if site.github %}
-           <li class="github"><i class="fa fa-github"></i><a href="http://github.com/{{site.github}}" target="_blank">{{site.github}}</a></li>
-           {% endif %}
 
            {% if site.twitter %}
            <li class="twitter"><i class="fa fa-twitter"></i><a href="https://twitter.com/{{site.twitter}}" target="_blank">{{site.twitter}}</a></li>
