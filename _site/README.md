@@ -1,6 +1,6 @@
 # My Homepage
 
-click [here](https://wyq730.github.io) to visit my homepage.
+Click [here](https://wyq730.github.io) to visit my homepage.
 
 ## Modules
 
