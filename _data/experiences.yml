@@ -7,6 +7,15 @@
 #  details1: Data Collection. Demo Development. Recognize people's activity using RSSI and CSI. CNN, TDNN and LSTM included.
 
 - experience:
+  role: Research Assistant
+  company: Anvanced Network Technology Lab (ANT), Beijing Univerisity of Posts and Telecommunications (BUPT)
+  time: Sep. 2017 - Present
+
+  bullet1: WiFi-based Contactless Activity Recognition
+  time1: Sep. 2017 - Present
+  details1: Developed an Android App to acquire WiFi signals (RSSI & CSI).<br>&#9670 &nbsp;Proposed an activity recognition system, which can utilize WiFi signals to recognize human activities.<br>&#9670 &nbsp;Developed a demo to illustrate how the recognition system works in real time.<br><br>
+
+- experience:
   role: Undergraduate Research Assistant
   company: Center for Speech and Language Technologies (CSLT), Tsinghua University
   time: Nov. 2016 - Nov. 2017
