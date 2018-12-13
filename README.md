@@ -4,7 +4,7 @@ Click [here](https://wyq730.github.io) to visit my homepage.
 
 ## Modules
 
-There are 6 parts in my homepage:
+There are 4 parts in my homepage:
 
 1. **Skills**
 2. **Experiences**: Introduction to my experiences.
