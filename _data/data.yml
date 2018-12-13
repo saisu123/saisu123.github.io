@@ -33,6 +33,10 @@ career-profile:
       (CMU), majoring in Computer Science.
       
       I am concentrated on web application development, and most familiar with Django, Vue.js and React.js.
+      The projects I am most proud of are:
+
+      - <span class="span-as-link" id="node-project-link">Node.js-powered Signal Visualization Platform</span>
+      - <span class="span-as-link" id="bupt-efly-link">Django-based Graduate School Application Community</span>
 
       I am now actively seeking 2019 summer SDE/SWE internship. If you have any position available, please
       contact me!
@@ -57,11 +61,12 @@ education:
           - Bullet point
 
 experiences:
-    - role: Research Assistant
+    - title: <span id="node-project">Node.js-powered Signal Visualization Platform</span>
       time: Feb 2018 - Jul 2018
-      company: Universidad Politécnica de Madrid
+      company: Universidad Politécnica de Madrid, B-105 Lab
+      role: Research Assistant
       details: |
-        Developed an signal visualization platform based on Express.js and Vue.js. 
+        Developed a signal visualization platform based on Node.js, Express.js and Vue.js. 
 
           - Implemented the web service with Vue.js, Express.js on Mongoose/MongoDB
           - Developed the Vue.js based frontend with vue-cli, vue-router, vuex for mutations and states
@@ -69,12 +74,13 @@ experiences:
           - Developed Express backend server with Pug as the view engine; integrated npm, Webpack
           - Used MongoDB/Mongoose for signal data storage; used Redis for web cache, and Nginx as reverse proxy
 
-    - role: Research Assistant
+    - title: Kaldi-based Speech Recognition with Sparse DNN
       time: Feb 2017 - Nov 2017
       company: Tsinghua University, Center for Speech and Language Techonologies (CSLT)
+      role: Research Assistant
       details: |
-        Participated in developing speech recognition (ASR) system and speaker recognition system,
-        and developed website to visualize experiment results.
+        Participated in developing speech recognition (ASR) system with sparse DNN,
+        and developed a website to visualize experiment results.
 
           - Implemented sparsely-connected DNNs with Python 2.7 and C++ based on Kaldi in CentOS 7
           - Analyzed the importance of DNN nodes/connections with Python 2.7, NumPy, SciPy and Pandas; used C++ and Eigen to modify DNN topology and conduct node/connection pruning
@@ -83,11 +89,12 @@ experiences:
 
           
 
-    - role: Research Assistant
+    - title: Qt-based driver distraction detection system
       time: Oct 2016 - Feb 2017
-      company: Amazon, London
+      company: BUPT, Pattern Recognition and Intelligent System Lab
+      role: Research Assistant
       details: |
-        Developed Qt-based driver distraction detection system.
+        Developed a system to detect drivers' distraction and visualize it based on Qt5.
 
           - Designed and developed QML GUI and C++/STL backend application
           - Developed multi-thread backend with QThread, and implemented data transfer with QTcpSocket
@@ -101,7 +108,7 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Django-based Graduate School Application Community
+      - title: <span id="bupt-efly">Django-based Graduate School Application Community</span>
         # link: "#hook"
         time: Feb 2018 – Jun 2018
         details: |

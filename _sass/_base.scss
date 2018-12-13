@@ -194,10 +194,12 @@ p {
         color: $text-grey;
     }
     .company, .university {
+        color: $text-grey;
+    }
+    .role {
         margin-bottom: 10px;
         color: $text-grey;
     }
-
     .project-title {
         font-size: 16px;
         font-weight: 400;
@@ -287,4 +289,18 @@ p {
 
 .skill-part-title {
     font-weight: 650
+}
+
+.span-as-link {
+    color: darken($theme-color, 15%);
+}
+
+.span-as-link:hover {
+    cursor: pointer;
+    text-decoration: underline;
+    color: darken($theme-color, 30%);
+}
+
+.span-as-link:focus {
+    text-decoration: none;
 }
