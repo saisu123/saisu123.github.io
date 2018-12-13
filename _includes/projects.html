@@ -1,38 +1,35 @@
-{% if site.data.projects %}
-<section class="section experiences-section">
+{% assign projects = site.data.data.projects %}
 
-  <h2 class="section-title"><i class="fa fa-archive"></i>Projects</h2>
+{% if projects %}
+<section class="section projects-section">
 
-  {% for intro in site.data.projects %}
-    <div class="intro_pro">
-      <p>
-      	My main projects are listed here. You can find more projects in <a href = "https://github.com/wyq730">my GitHub</a>.
-      </p>
-    </div>
-    {% break %}
-  {% endfor%}
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
+    </span>
+    Projects
+  </h2>
 
-  {% for project in site.data.projects %}
-    <div class="item_simple">
+  {% for project in projects.assignments %}
+  <div class="item">
 
-      <div class="meta">
+    <div class="meta">
 
-        <div class="upper-row">
-          <h3 class="project">{{ project.title }}</h3>
-          <!-- <div class="time_simple">{{ project.tagline }}</div> -->
-        </div><!--//upper-row-->
+      <div class="upper-row" style="margin-bottom: 10px;">
+        <h3 class="job-title">{{ project.title }}</h3>
+        <div class="time">{{ project.time }}</div>
+      </div><!--//upper-row-->
 
-        <!-- <div class="company_simple">{{ report.company }}</div> -->
+    </div><!--//meta-->
 
-      </div><!--//meta-->
+    {% if project.details %}
+    <div class="details">
+      {{ project.details | markdownify }}
+    </div><!--//details-->
+    {% endif %}
 
-      {% if project.tagline %}
-      <div class="details_simple_projects">
-        <p>{{ project.tagline }}</p>
-      </div><!--//details-->
-      {% endif %}
-
-    </div><!--//item-->
+  </div><!--//item-->
   {% endfor %}
 
 </section><!--//section-->

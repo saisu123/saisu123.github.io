@@ -1,34 +1,20 @@
-﻿# Site Settings
-title: Yanqing Wang | Homepage
+#Update all the sections by editing the data.yml file inside _data folder.
+
+# Site Settings
+title: Yanqing Wang | homepage
 url: 'http://webjeda.com'
-baseurl: ''
-#baseurl: '/online-cv' #change it according to your repository name
-
-# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
-#style: styles-2
-#style: styles-3
-#style: styles-4
-#style: styles-5
-style: styles-6
-
-#Profile information
-name: Yanqing Wang
-tagline: Undergraduate Student<br>at BUPT
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'I am now an undergraduate student in <a href="http://www.bupt.edu.cn" color="#545E6C">Beijing University of Posts and Telecommunications (BUPT)</a>, and have been an undergraduate research assistant since Nov. 2016 in <a href="http://www.cslt.org/EN/">Center for Speech and Language Technologies (CSLT)</a>, Tsinghua University.<br><br>My interest lays not only in signal processing and telecommunication theory, which are two main areas of my major, but also in deep learning and its application in speech recognition as well as activity recognition, in which I am doing some research work.'
-
-#sidebar links
-email: wangyanqingchn[at]163.com
-#phone: 012 345 6789
-#website: blog.webjeda.com #do not add http://
-linkedin: yanqing-wang-36a591102
-linkedin_name: Yanqing Wang
-github: wyq730
-#twitter: '@webjeda'
-#Update all the sections by editing the files inside _data folder.
+baseurl: '/online-cv' #change it according to your repository name
+# Style will be applied only after restarting the build or serve. Just choose one of the options.
+theme_skin: turquoise # blue turquoise green berry orange ceramic
+chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Tracker
 analytics: UA-83979019-1
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 # Build settings
 encoding: "utf-8"
@@ -36,3 +22,8 @@ compress_html: # - http://jch.penibelst.de/
   clippings: all
   ignore:
     envs: development
+
+# Development Settings
+port: 4001
+host: 127.0.0.1
+safe: false

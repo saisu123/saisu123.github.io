@@ -1,0 +1,154 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Yanqing Wang
+    tagline: Master's student in CMU
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email-username: wyq
+    email-postfix: cmu.edu
+    phone:
+    website: #do not add http://
+    linkedin: yanqing-wang
+    linkedin-name: Yanqing Wang
+    github: wyq730
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+career-profile:
+    title:
+    summary: |
+      <span id="hi">Hi</span>, I'm Yanqing Wang, a first-year master's student in Carnegie Mellon University
+      (CMU), majoring in Computer Science.
+      
+      I am concentrated on web application development, and most familiar with Django, Vue.js and React.js.
+
+      I am now actively seeking 2019 summer SDE/SWE internship. If you have any position available, please
+      contact me!
+
+education:
+    - degree: MS in Computer Science
+      university: Carnegie Mellon University
+      time: Aug 2018 - May 2020
+      details: 
+
+    - degree: BS in Telecommunication Engineering
+      university: Beijing University of Posts and Telecommunications
+      time: Sep 2014 - Jun 2018
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+experiences:
+    - role: Research Assistant
+      time: Feb 2018 - Jul 2018
+      company: Universidad Politécnica de Madrid
+      details: |
+        Developed an signal visualization platform based on Express.js and Vue.js. 
+
+          - Implemented the web service with Vue.js, Express.js on Mongoose/MongoDB
+          - Developed the Vue.js based frontend with vue-cli, vue-router, vuex for mutations and states
+          - Developed Ajax requests/responses with Axios; used Highcharts for live data visualization
+          - Developed Express backend server with Pug as the view engine; integrated npm, Webpack
+          - Used MongoDB/Mongoose for signal data storage; used Redis for web cache, and Nginx as reverse proxy
+
+    - role: Research Assistant
+      time: Feb 2017 - Nov 2017
+      company: Tsinghua University, Center for Speech and Language Techonologies (CSLT)
+      details: |
+        Participated in developing speech recognition (ASR) system and speaker recognition system,
+        and developed website to visualize experiment results.
+
+          - Implemented sparsely-connected DNNs with Python 2.7 and C++ based on Kaldi in CentOS 7
+          - Analyzed the importance of DNN nodes/connections with Python 2.7, NumPy, SciPy and Pandas; used C++ and Eigen to modify DNN topology and conduct node/connection pruning
+          - Reduced DNN model size by 83% by utilizing optimal brain damage to conduct DNN pruning
+          - Developed a website with Apache, Bootstrap 4, jQuery, PHP 5 and Microsoft SQL Server to show the results
+
+          
+
+    - role: Research Assistant
+      time: Oct 2016 - Feb 2017
+      company: Amazon, London
+      details: |
+        Developed Qt-based driver distraction detection system.
+
+          - Designed and developed QML GUI and C++/STL backend application
+          - Developed multi-thread backend with QThread, and implemented data transfer with QTcpSocket
+          - Implemented SVM for EEG signal classification with LIBSVM
+
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+    assignments:
+      - title: Django-based Graduate School Application Community
+        # link: "#hook"
+        time: Feb 2018 – Jun 2018
+        details: |
+
+          An experience sharing community for students in BUPT, developed with Django and React.
+
+          - Implemented the web service with Python 2.7, Django and deployed on AWS
+          - Developed ReactJS frontend with Redux, redux-thunk, redux-form and Material-UI
+          - Developed MVC backend with Django on MySQL; used Celery and RabbitMQ for backend jobs
+          - Used django-cachalot for ORM query cache and Redis as the web content cache
+          - Improved user editing experience with CKEditor; utilized Django Haystack to
+            optimize the search functionality; used Django ImageKit to process uploaded pictures
+
+      - title: Machine Learning Based Activity Recognition System
+        # link: "#hook"
+        time: Nov 2017 – Jan 2018
+        details: |
+
+          An experience sharing community for students in BUPT, developed with Django and React.
+
+          - Develop an Android App with Java and Android Studio to collect Wi-Fisignal data using
+          WifiManager Module; used SQLite as local storage, and sent data to the remote server with Volley
+          - Implemented k-NN, SVM, and CNN with Python 2.7, scikit-learn and TensorFlow for signal
+          classification; utilized Twisted to send recognition result to client
+          - Used C++, Asio and WebSocket++ to receive data from the server, and visualized the human
+          activity with Qt Widgets
+
+publications:
+    title: Publications
+
+    papers:
+      - title: Human and Machine Speaker Recognition Based on Short Trivial Events
+        authors: M. Zhang, X. Kang, Y. Wang, et al.
+        conference: IEEE International Conference on Acoustics, Speech and Signal Processing (2018)
+
+skills:
+    title: Skills
+
+    languages: Python 2.7, HTML5/CSS3, JavaScript/ES6, PHP5, SQL, C++/STL, Java, QML, Sass, bash scripting
+
+    frameworks: Django, Express, Vue.js, Bootstrap 4, React, Redux, Material-UI, Twisted, Android,
+      Qt 5, TensorFlow
+
+    tools: Node.js, MongoDB, Mongoose, MySQL, Microsoft SQL Server, jQuery, Axios, Celery, RabbitMQ, Redis,
+      Pug, Webpack, Highcharts, Git, NumPy, SciPy, Pandas, scikit-learn, Eigen, Asio, WebSocket++, LIBSVM,
+      Volley
+
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
