@@ -7,18 +7,17 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Yanqing Wang
-    tagline: Master's student in CMU
+    name: Shuo Li
+    tagline: Master's student in the University of Edinburgh
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email-username: wyq
-    email-postfix: cmu.edu
+    email-username: s1809498
+    email-postfix: ed.ac.uk
     phone:
     website: #do not add http://
-    linkedin: yanqing-wang
-    linkedin-name: Yanqing Wang
-    github: wyq730
+
+    github: saisu123
     gitlab:
     bitbucket:
     twitter:
@@ -29,8 +28,8 @@ sidebar:
 career-profile:
     title:
     summary: |
-      <span id="hi">Hi</span>, I'm Yanqing Wang, a first-year master's student in Carnegie Mellon University
-      (CMU), majoring in Computer Science.
+      <span id="hi">Hi</span>, I'm Shuo li, am  currently a master's student in the University of Edinburgh
+      (CMU), majoring in Signal Processing & Commmunications.
       
       I am concentrated on web application development, and most familiar with Django, Vue.js and React.js.
       The projects I am most proud of are:
@@ -38,18 +37,18 @@ career-profile:
       - <span class="span-as-link" id="node-project-link">Node.js-powered Signal Visualization Platform</span>
       - <span class="span-as-link" id="bupt-efly-link">Django-based Graduate School Application Community</span>
 
-      I am now actively seeking 2019 summer SDE/SWE internship. If you have any position available, please
+      I am now actively seeking 2019 PHD internship. If you have any position available, please
       contact me!
 
 education:
-    - degree: MS in Computer Science
-      university: Carnegie Mellon University
-      time: Aug 2018 - May 2020
+    - degree: MS in Signal Processing & Communication
+      university: UNiversity of Edinburgh
+      time: Aug 2018 - May 2019
       details: 
 
-    - degree: BS in Telecommunication Engineering
-      university: Beijing University of Posts and Telecommunications
-      time: Sep 2014 - Jun 2018
+    - degree: BS in Interner of Things (IOT)
+      university: University College Dublin
+      time: Sep 2014 - Jun 2017
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
