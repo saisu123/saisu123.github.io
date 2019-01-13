@@ -138,11 +138,11 @@ projects:
 skills:
     title: Skills
 
-    Programing Related: HTML5, MySQL, C/C++, Java, Pig Latin, QT 5
-
-    Engineering Related: Matlab, Logism, Verilog HDL, Arduino, LTSpice, FPGA, Raspberry Pi, Demonboard based on Linux Environment
-
-    Internet Related: Packet Tracer, Wireshark, JBoss, Jmeter, Akka, Zookeeper
+    languages: HTML5, MySQL, C/C++, Java, Pig Latin, Matlab, Logism, Verilog HDL, Arduino, LTSpice, FPGA, Raspberry Pi
+    
+    frameworks: Qt 5, Akka, Zookeeper
+    
+    tools:  MySQL, Microsoft SQL Server, jQuery, Git, Packet Tracer, JBoss, Jmeter, Wireshark, JBoss, Jmeter
 
 
 footer: >
