@@ -36,7 +36,7 @@ career-profile:
 
       - <span class="span-as-link" id="node-project-link">Design of Spectrally-Efficient Distributed Spatial Modulation(DSM)</span>
       - <span class="span-as-link" id="bupt-efly-link">Design of Music Recommender System(Akka based Distributed Web Crawler)</span>
-      - <span class="span-as-link" id="bupt-efly-link">Design of Portable Handwritting Recongnition Smart-Pen</span>
+      - <span class="span-as-link" id="bupt-efly-link">Design of Portable and Handwritting-Specifiable Smart Pen</span>
       
       I am now actively seeking 2019 PHD opportunity. If you have any position available, please
       contact me!
@@ -94,7 +94,7 @@ projects:
 
           
 
-    - title: Design of portable handwritting-recongnition Smart-Pen
+    - title: Design of Portable and Handwritting-Specifiable Smart Pen
       time: Oct 2016 - Feb 2017
       company: Beijing University of Technology (BJUT)
       details: |
