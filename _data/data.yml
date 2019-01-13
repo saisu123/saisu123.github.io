@@ -28,21 +28,21 @@ sidebar:
 career-profile:
     title:
     summary: |
-      <span id="hi">Hi</span>, I'm Shuo li, am  currently a master's student in the University of Edinburgh
+      <span id="hi">Hi</span>, I'm Shuo li, am currently a master's student in the University of Edinburgh
       (CMU), majoring in Signal Processing & Commmunications.
       
       I am concentrated on web application development, and most familiar with Django, Vue.js and React.js.
       The projects I am most proud of are:
 
-      - <span class="span-as-link" id="node-project-link">Node.js-powered Signal Visualization Platform</span>
-      - <span class="span-as-link" id="bupt-efly-link">Django-based Graduate School Application Community</span>
-
-      I am now actively seeking 2019 PHD internship. If you have any position available, please
+      - <span class="span-as-link" id="node-project-link">Design of Spectrally-Efficient Distributed Spatial Modulation(DSM)</span>
+      - <span class="span-as-link" id="bupt-efly-link">Akka-Based music recommender system</span>
+      - <span class="span-as-link" id="bupt-efly-link">Design of portable handwritting-recongnition Smart-Pen</span>
+      I am now actively seeking 2019 PHD opportunity. If you have any position available, please
       contact me!
 
 education:
     - degree: MS in Signal Processing & Communication
-      university: UNiversity of Edinburgh
+      university: University of Edinburgh
       time: Aug 2018 - May 2019
       details: 
 
