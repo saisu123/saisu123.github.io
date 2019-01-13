@@ -31,12 +31,13 @@ career-profile:
       <span id="hi">Hi</span>, I'm Shuo li, am currently a master's student in the University of Edinburgh
       (CMU), majoring in Signal Processing & Commmunications.
       
-      I am concentrated on web application development, and most familiar with Django, Vue.js and React.js.
+      I am concentrated on Matlab-bases/Java-based programming, and most familiar with Embeeded System, Distributed System
       The projects I am most proud of are:
 
       - <span class="span-as-link" id="node-project-link">Design of Spectrally-Efficient Distributed Spatial Modulation(DSM)</span>
-      - <span class="span-as-link" id="bupt-efly-link">Akka-Based music recommender system</span>
+      - <span class="span-as-link" id="bupt-efly-link">Design of Music recommender system(Akka based distributed Web Crawler)</span>
       - <span class="span-as-link" id="bupt-efly-link">Design of portable handwritting-recongnition Smart-Pen</span>
+      
       I am now actively seeking 2019 PHD opportunity. If you have any position available, please
       contact me!
 
@@ -60,12 +61,11 @@ education:
           - Bullet point
 
 experiences:
-    - title: <span id="node-project">Node.js-powered Signal Visualization Platform</span>
-      time: Feb 2018 - Jul 2018
-      company: Universidad Politécnica de Madrid, B-105 Lab
-      role: Research Assistant
+    - title: <span id="node-project">Design of Spectrally-Efficient Distributed Spatial Modulation</span>
+      time: Feb 2017 - Jul 2018
+      company: University College Dublin, Ireland
       details: |
-        Developed a signal visualization platform based on Node.js, Express.js and Vue.js. 
+        Simulated & Developed a Spectrally-Efficienct DSM Communication System based on Matlab 
 
           - Implemented the web service with Vue.js, Express.js on Mongoose/MongoDB
           - Developed the Vue.js based frontend with vue-cli, vue-router, vuex for mutations and states
@@ -73,10 +73,9 @@ experiences:
           - Developed Express backend server with Pug as the view engine; integrated npm, Webpack
           - Used MongoDB/Mongoose for signal data storage; used Redis for web cache, and Nginx as reverse proxy
 
-    - title: Kaldi-based Speech Recognition with Sparse DNN
+    - title: Design of Music Recommender System(Akka based distributed Web Crawler)
       time: Feb 2017 - Nov 2017
-      company: Tsinghua University, Center for Speech and Language Techonologies (CSLT)
-      role: Research Assistant
+      company: University College Dublin, Ireland
       details: |
         Participated in developing speech recognition (ASR) system with sparse DNN,
         and developed a website to visualize experiment results.
@@ -88,10 +87,9 @@ experiences:
 
           
 
-    - title: Qt-based Driver Distraction Detection System
+    - title: Design of portable handwritting-recongnition Smart-Pen
       time: Oct 2016 - Feb 2017
-      company: BUPT, Pattern Recognition and Intelligent System Lab
-      role: Research Assistant
+      company: Beijing University of Technology (BJUT)
       details: |
         Developed a system to detect drivers' distraction and visualize it based on Qt5.
 
@@ -142,7 +140,7 @@ skills:
     
     frameworks: Qt 5, Akka, Zookeeper
     
-    tools:  MySQL, Microsoft SQL Server, jQuery, Git, Packet Tracer, JBoss, Jmeter, Wireshark, JBoss, Jmeter
+    tools:  MySQL, Microsoft SQL Server, jQuery, Git, Packet Tracer, JBoss, Jmeter, Wireshark
 
 
 footer: >
