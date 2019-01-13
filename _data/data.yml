@@ -29,14 +29,14 @@ career-profile:
     title:
     summary: |
       <span id="hi">Hi</span>, I'm Shuo li, am currently a master's student in the University of Edinburgh
-      (CMU), majoring in Signal Processing & Commmunications.
+      , majoring in Signal Processing & Commmunications.
       
-      I am concentrated on Matlab-bases/Java-based programming, and most familiar with Embeeded System, Distributed System
+      I am concentrated on Matlab-based/Java-based programming, and most familiar with Embeeded System, Distributed System. 
       The projects I am most proud of are:
 
       - <span class="span-as-link" id="node-project-link">Design of Spectrally-Efficient Distributed Spatial Modulation(DSM)</span>
-      - <span class="span-as-link" id="bupt-efly-link">Design of Music recommender system(Akka based distributed Web Crawler)</span>
-      - <span class="span-as-link" id="bupt-efly-link">Design of portable handwritting-recongnition Smart-Pen</span>
+      - <span class="span-as-link" id="bupt-efly-link">Design of Music Recommender System(Akka based Distributed Web Crawler)</span>
+      - <span class="span-as-link" id="bupt-efly-link">Design of Portable Handwritting Recongnition Smart-Pen</span>
       
       I am now actively seeking 2019 PHD opportunity. If you have any position available, please
       contact me!
@@ -60,7 +60,14 @@ education:
           - Bullet point
           - Bullet point
 
-experiences:
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+    assignments:
     - title: <span id="node-project">Design of Spectrally-Efficient Distributed Spatial Modulation</span>
       time: Feb 2017 - Jul 2018
       company: University College Dublin, Ireland
@@ -97,41 +104,6 @@ experiences:
           - Developed multi-thread backend with QThread, and implemented data transfer with QTcpSocket
           - Implemented SVM for EEG signal classification with LIBSVM
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    assignments:
-      - title: <span id="bupt-efly">Django-based Graduate School Application Community</span>
-        # link: "#hook"
-        time: Feb 2018 – Jun 2018
-        details: |
-
-          An experience sharing community for students in BUPT, developed with Django and React.
-
-          - Implemented the web service with Python 2.7, Django and deployed on AWS
-          - Developed ReactJS frontend with Redux, redux-thunk, redux-form and Material-UI
-          - Developed MVC backend with Django on MySQL; used Celery and RabbitMQ for backend jobs
-          - Used django-cachalot for ORM query cache and Redis as the web content cache
-          - Improved user editing experience with CKEditor; utilized Django Haystack to
-            optimize the search functionality; used Django ImageKit to process uploaded pictures
-
-      - title: Machine Learning Based Activity Recognition System
-        # link: "#hook"
-        time: Nov 2017 – Jan 2018
-        details: |
-
-          An experience sharing community for students in BUPT, developed with Django and React.
-
-          - Develop an Android App with Java and Android Studio to collect Wi-Fisignal data using
-          WifiManager Module; used SQLite as local storage, and sent data to the remote server with Volley
-          - Implemented k-NN, SVM, and CNN with Python 2.7, scikit-learn and TensorFlow for signal
-          classification; utilized Twisted to send recognition result to client
-          - Used C++, Asio and WebSocket++ to receive data from the server, and visualized the human
-          activity with Qt Widgets
 
 skills:
     title: Skills
