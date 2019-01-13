@@ -135,25 +135,14 @@ projects:
           - Used C++, Asio and WebSocket++ to receive data from the server, and visualized the human
           activity with Qt Widgets
 
-publications:
-    title: Publications
-
-    papers:
-      - title: Human and Machine Speaker Recognition Based on Short Trivial Events
-        authors: M. Zhang, X. Kang, Y. Wang, et al.
-        conference: IEEE International Conference on Acoustics, Speech and Signal Processing (2018)
-
 skills:
     title: Skills
 
-    languages: Python 2.7, HTML5/CSS3, JavaScript/ES6, PHP5, SQL, C++/STL, Java, QML, Sass, bash scripting
+    Programing Related: HTML5, MySQL, C/C++, Java, Pig Latin, QT 5, 
 
-    frameworks: Django, Express, Vue.js, Bootstrap 4, React, Redux, Material-UI, Twisted, Android,
-      Qt 5, TensorFlow
+    Engineering Related: Matlab, Logism, Verilog HDL, Arduino, LTSpice, FPGA, Raspberry Pi, Demonboard based on Linux Environment
 
-    tools: Node.js, MongoDB, Mongoose, MySQL, Microsoft SQL Server, jQuery, Axios, Celery, RabbitMQ, Redis,
-      Pug, Webpack, Highcharts, Git, NumPy, SciPy, Pandas, scikit-learn, Eigen, Asio, WebSocket++, LIBSVM,
-      Volley
+    Internet Related: Packet Tracer, Wireshark, JBoss, Jmeter, Akka, Zookeeper
 
 
 footer: >
