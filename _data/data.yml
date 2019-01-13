@@ -16,7 +16,8 @@ sidebar:
     email-postfix: ed.ac.uk
     phone:
     website: #do not add http://
-
+    linkedin: shuo_lii
+    linkedin-name: Shuo Li
     #github: saisu123
     #gitlab:
     bitbucket:
@@ -61,13 +62,6 @@ education:
           - Bullet point
 
 experiences:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    assignments:
     - title: <span id="node-project">Design of Spectrally-Efficient Distributed Spatial Modulation</span>
       time: Feb 2017 - Jul 2018
       company: University College Dublin, Ireland
