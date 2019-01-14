@@ -81,7 +81,7 @@ experiences:
         Developed a Music Recommender System
 
           - Analyzed source code of website 'www.wangyiyun.com', extracting the urls of interest.
-          - Implemented distributed web crawlers based on Akka distributed Framework
+          - Implemented distributed web crawlers based on Akka distributed Framework.
           - Coordinated Master and Slave operation modes.
           - Processed the output logs, recommending new musics that are more likely to be liked by users.
 
@@ -94,7 +94,7 @@ experiences:
         and developed a GUI to visualize the calculation results.
 
           - Developed KNN classification algorithm.
-          - Developed codes to process the specified handwritting digit, and implemented data transfer with QTcpSocket
+          - Developed codes to process the specified handwritting digit, and implemented data transfer with QTcpSocket.
           - Designed the GUI based on QT 5.
 
 
