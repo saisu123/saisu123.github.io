@@ -91,8 +91,7 @@ experiences:
       company: Beijing University of Technology (BJUT)
       details: |
         Earned 2017 “Bo Cup” National University of Embedded Networking Design Competition National Outstanding Award 
-        and developed a GUI to visualize the calculation results.
-
+        
           - Developed KNN classification algorithm.
           - Developed codes to process the specified handwritting digit, and implemented data transfer with QTcpSocket.
           - Designed the GUI to visualize the calculation results (based on QT 5).
