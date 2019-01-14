@@ -68,35 +68,34 @@ experiences:
       details: |
         Simulated & Developed a Spectrally-Efficienct DSM Communication System based on Matlab 
 
-          - Implemented the web service with Vue.js, Express.js on Mongoose/MongoDB
-          - Developed the Vue.js based frontend with vue-cli, vue-router, vuex for mutations and states
-          - Developed Ajax requests/responses with Axios; used Highcharts for live data visualization
-          - Developed Express backend server with Pug as the view engine; integrated npm, Webpack
-          - Used MongoDB/Mongoose for signal data storage; used Redis for web cache, and Nginx as reverse proxy
+          - Implemented the Conventional DSM system model.
+          - Analyzed different modulation/demodulation schemes (e.g STBC).
+          - Proposed new protocols for generalized DSM, which allows more than one antennas to be activated during broadcasting & relaying phases.
+          - Analyzed the trade-off between Spectral Efficiency and Energy Efficiency.
+          
 
     - title: Design of Music Recommender System
       time: Feb 2017 - Nov 2017
       company: University College Dublin, Ireland
       details: |
-        Participated in developing speech recognition (ASR) system with sparse DNN,
-        and developed a website to visualize experiment results.
+        Developed a Music Recommender System
 
-          - Implemented sparsely-connected DNNs with Python 2.7 and C++ based on Kaldi in CentOS 7
-          - Analyzed the importance of DNN nodes/connections with Python 2.7, NumPy, SciPy and Pandas; used C++ and Eigen to modify DNN topology and conduct node/connection pruning
-          - Reduced DNN model size by 83% by utilizing optimal brain damage to conduct DNN pruning
-          - Developed a website with Apache, Bootstrap 4, jQuery, PHP 5 and Microsoft SQL Server to show the results
+          - Analyzed source code of website 'www.wangyiyun.com', extracting the urls of interest.
+          - Implemented distributed web crawlers based on Akka distributed Framework
+          - Coordinated Master and Slave operation modes.
+          - Processed the output logs, recommending new musics that are more likely to be liked by users.
 
-          
-
+ 
     - title: Design of Portable and Handwritting-Specifiable Smart Pen
       time: Oct 2016 - Feb 2017
       company: Beijing University of Technology (BJUT)
       details: |
-        Developed a system to detect drivers' distraction and visualize it based on Qt5.
+        Participated in developing machine learning algorithms (KNN)
+        and developed a GUI to visualize the calculation results.
 
-          - Designed and developed QML GUI and C++/STL backend application
-          - Developed multi-thread backend with QThread, and implemented data transfer with QTcpSocket
-          - Implemented SVM for EEG signal classification with LIBSVM
+          - Developed KNN classification algorithm.
+          - Developed codes to process the specified handwritting digit, and implemented data transfer with QTcpSocket
+          - Designed the GUI based on QT 5.
 
 
 skills:
