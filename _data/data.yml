@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Shuo Li
-    tagline: Master's student in the University of Edinburgh
+    tagline: Master's student at the University of Edinburgh
     avatar: shuoli3.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -32,7 +32,7 @@ career-profile:
       <span id="hi">Hi</span>, I'm Shuo li, am currently a master's student in the University of Edinburgh
       , majoring in Signal Processing & Commmunications.
       
-      I am concentrated on Matlab-based/Java-based programming, and most familiar with Embeeded System, Distributed System, and Signal processing 
+      I am concentrated on Matlab-based/Java-based programming, and most familiar with Embedded System, Distributed System, and Signal Processing. 
       The projects I am most proud of are:
 
       - <span class="span-as-link" id="node-project-link">Design of Spectrally-Efficient Distributed Spatial Modulation(DSM)</span>
@@ -48,7 +48,7 @@ education:
       time: Aug 2018 - May 2019
       details: 
 
-    - degree: BS in Interner of Things (IOT)
+    - degree: BS in Internet of Things (IOT)
       university: University College Dublin
       time: Sep 2014 - Jun 2017
       details: |
@@ -66,7 +66,7 @@ experiences:
       time: Feb 2017 - Jul 2018
       company: University College Dublin, Ireland
       details: |
-        Simulated & Developed a Spectrally-Efficienct DSM Communication System based on Matlab 
+        Simulated & Developed a Spectrally-Efficient DSM Communication System based on Matlab
 
           - Implemented the Conventional DSM system model.
           - Analyzed different modulation/demodulation schemes (e.g STBC).
@@ -74,35 +74,35 @@ experiences:
           - Analyzed the trade-off between Spectral Efficiency and Energy Efficiency.
           
 
-    - title: Design of Music Recommender System
+    - title: <span id="node-project">Design of Music Recommender System</span>
       time: Feb 2017 - Nov 2017
       company: University College Dublin, Ireland
       details: |
         Developed a Music Recommender System
 
-          - Analyzed source code of website 'www.wangyiyun.com', extracting the urls of interest.
+          - Analyzed source code of website 'www.wangyiyun.com', extracting the URLs of interest.
           - Implemented distributed web crawlers based on Akka distributed Framework.
           - Coordinated Master and Slave operation modes.
-          - Processed the output logs, recommending new musics that are more likely to be liked by users.
+          - Processed the output logs, recommending new music that is more likely to be preferred by users.
 
  
-    - title: Design of Portable and Handwritting-Specifiable Smart Pen
+    - title: <span id="node-project">Design of Portable & Handwriting-Specifiable Smart Pen</span>
       time: Oct 2016 - Feb 2017
       company: Beijing University of Technology (BJUT)
       details: |
         Earned 2017 “Bo Cup” National University of Embedded Networking Design Competition National Outstanding Award 
         
           - Developed KNN classification algorithm.
-          - Developed codes to process the specified handwritting digit, and implemented data transfer with QTcpSocket.
+          - Developed codes to process the specified handwriting digits, and implemented data transfer with QTcpSocket.
           - Designed the GUI to visualize the calculation results (based on QT 5).
 
 
 skills:
     title: Skills
 
-    languages: HTML5, MySQL, C/C++, Java, Pig Latin, Matlab, Logism, Verilog HDL, Arduino, LTSpice, FPGA, Raspberry Pi
+    languages: Python, HTML5, MySQL, C/C++, Java, Pig Latin, Matlab, Logism, Verilog HDL, Arduino, LTSpice, FPGA, Raspberry Pi
     
-    frameworks: Qt 5, Akka, Zookeeper
+    frameworks: QT 5, Akka, Zookeeper
     
     tools:  MySQL, Microsoft SQL Server, jQuery, Git, Packet Tracer, JBoss, Jmeter, Wireshark
 
