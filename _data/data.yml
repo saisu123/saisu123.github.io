@@ -29,15 +29,15 @@ sidebar:
 career-profile:
     title:
     summary: |
-      <span id="hi">Hi</span>, I'm Shuo li, am currently a master's student in the University of Edinburgh
+      <span id="hi">Hi</span>, I'm Shuo Li, am currently a master's student in the University of Edinburgh
       , majoring in Signal Processing & Commmunications.
       
       I am concentrated on Matlab-based/Java-based programming, and most familiar with Embedded System, Distributed System, and Signal Processing. 
       The projects I am most proud of are:
 
       - <span class="span-as-link" id="node-project-link">Design of Spectrally-Efficient Distributed Spatial Modulation(DSM)</span>
-      - <span class="span-as-link" id="node-project2-link">Design of Music Recommender System</span>
-      - <span class="span-as-link" id="node-project3-link">Design of Portable & Handwriting-Specifiable Smart Pen</span>
+      - <span class="span-as-link" id="node2-project2-link">Design of Music Recommender System</span>
+      - <span class="span-as-link" id="node3-project3-link">Design of Portable & Handwriting-Specifiable Smart Pen</span>
       
       I am now actively seeking 2019 PHD opportunity. If you have any position available, please
       contact me!
@@ -74,7 +74,8 @@ experiences:
           - Analyzed the trade-off between Spectral Efficiency and Energy Efficiency.
           
 
-    - title: <span id="node-project2">Design of Music Recommender System</span>
+    - title: <span id="node2-project2">Design of Music Recommender System</span>
+    # link: "#hook"
       time: Feb 2017 - Nov 2017
       company: University College Dublin, Ireland
       details: |
@@ -86,7 +87,8 @@ experiences:
           - Processed the output logs, recommending new music that is more likely to be preferred by users.
 
  
-    - title: <span id="node-project3">Design of Portable & Handwriting-Specifiable Smart Pen</span>
+    - title: <span id="node3-project3">Design of Portable & Handwriting-Specifiable Smart Pen</span>
+    # link: "#hook"
       time: Oct 2016 - Feb 2017
       company: Beijing University of Technology (BJUT)
       details: |
