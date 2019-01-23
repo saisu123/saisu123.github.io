@@ -22,9 +22,9 @@ jQuery(document).ready(function($) {
         }, 500);
     })
 
-    $("#bupt-efly-link").click( function () {
+    $("#node-peoject2-link").click( function () {
         $([document.documentElement, document.body]).animate({
-            scrollTop: $("#bupt-efly").offset().top
+            scrollTop: $("#node-project2").offset().top
         }, 500);
     })
 
