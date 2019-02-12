@@ -80,8 +80,8 @@ experiences:
       details: |
         Developed a Music Recommender System
 
-          - Analyzed source code of website 'www.wangyiyun.com', extracting the URLs of interest.
-          - Implemented distributed web crawlers based on Akka distributed Framework.
+          - Analyzed source code of website 'www.music123.com', extracting the URLs of interest.
+          - Implemented Akka-based distributed web crawlers.
           - Coordinated Master and Slave operation modes.
           - Processed the output logs, recommending new music that is more likely to be preferred by users.
 
@@ -91,7 +91,7 @@ experiences:
       time: Oct 2016 - Feb 2017
       company: Beijing University of Technology (BJUT)
       details: |
-        Earned 2017 “Bo Cup” National University of Embedded Networking Design Competition National Outstanding Award 
+        Earned National Outstanding Award in “Bo Chuang Cup” National University of Embedded Networking Design Competition,2017
         
           - Developed KNN classification algorithm.
           - Developed codes to process the specified handwriting digits, and implemented data transfer with QTcpSocket.
