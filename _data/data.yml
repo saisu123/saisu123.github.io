@@ -37,17 +37,18 @@ career-profile:
       - <span class="span-as-link" id="node-project-link">Design of Spectrally-Efficient Distributed Spatial Modulation(DSM)</span>
       - <span class="span-as-link" id="node-project2-link">Design of Music Recommender System</span>
       - <span class="span-as-link" id="node-project-link">Design of Portable & Handwriting-Specifiable Smart Pen</span>
+      - <span class="span-as-link" id="node-project-link">Wavelength Modulation Spectroscopy for Mobile Gas Sensing</span>
       
       I am now actively seeking 2019 PHD opportunity. If you have any position available, please
       contact me!
 
 education:
-    - degree: MS in Signal Processing & Communication
+    - degree: MS(merit) in Signal Processing & Communication
       university: University of Edinburgh
       time: Aug 2018 - May 2019
       details: 
 
-    - degree: BS in Internet of Things (IOT)
+    - degree: BS(2.1) in the Internet of Things (IOT)
       university: University College Dublin
       time: Sep 2014 - Jun 2017
       details: |
@@ -80,7 +81,7 @@ experiences:
       details: |
         Developed a Music Recommender System
 
-          - Analyzed source code of website 'www.music123.com', extracting the URLs of interest.
+          - Analyzed source code of website 'www.music163.com', extracting the URLs of interest.
           - Implemented Akka-based distributed web crawlers.
           - Coordinated Master and Slave operation modes.
           - Processed the output logs, recommending new music that is more likely to be preferred by users.
@@ -92,10 +93,20 @@ experiences:
       company: Beijing University of Technology (BJUT)
       details: |
         Earned National Outstanding Award in “Bo Chuang Cup” National University of Embedded Networking Design Competition,2017
-        
-          - Developed KNN classification algorithm.
           - Developed codes to process the specified handwriting digits, and implemented data transfer with QTcpSocket.
           - Designed the GUI to visualize the calculation results (based on QT 5).
+
+- title: <span id="node-project">Wavelength Modulation Spectroscopy(WMS) for Mobile Gas Sensing</span>
+    # link: "#hook"
+      time: Oct 2018 - Sep 2019
+      company: University Of Edinburgh, UK
+      details: |
+         Developed a Laser-Based Gas Sensing Technique to measure the combustion parameters of interested (e.g species concentration, temperature)
+          - Simulated WMS algorithm with both Python and Matlab
+          - Collected the real-world data from the combustion chamber. Optimizing code in terms of efficiency and accuracy to promote in-situ measurement.
+          - Implemented data transfer with red pitaya (open-source Stemlab equipment), and further embedded into a portable chip (LattePanda) to facilitate mobile gas sensing.
+    
+
 
 
 skills:
