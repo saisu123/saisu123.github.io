@@ -93,15 +93,17 @@ experiences:
       company: Beijing University of Technology (BJUT)
       details: |
         Earned National Outstanding Award in “Bo Chuang Cup” National University of Embedded Networking Design Competition,2017
+        
           - Developed codes to process the specified handwriting digits, and implemented data transfer with QTcpSocket.
           - Designed the GUI to visualize the calculation results (based on QT 5).
 
-- title: <span id="node-project">Wavelength Modulation Spectroscopy(WMS) for Mobile Gas Sensing</span>
+    - title: <span id="node-project">Wavelength Modulation Spectroscopy(WMS) for Mobile Gas Sensing</span>
     # link: "#hook"
       time: Oct 2018 - Sep 2019
       company: University Of Edinburgh, UK
       details: |
          Developed a Laser-Based Gas Sensing Technique to measure the combustion parameters of interested (e.g species concentration, temperature)
+         
           - Simulated WMS algorithm with both Python and Matlab.
           - Collected the real-world data from the combustion chamber. Optimizing code in terms of efficiency and accuracy to promote in-situ measurement.
           - Implemented data transfer with red pitaya (open-source Stemlab equipment), and further embedded into a portable chip (LattePanda) to facilitate mobile gas sensing.
